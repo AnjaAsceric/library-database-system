@@ -9,10 +9,16 @@ The goal is to design and implement a normalized database that supports:
 - different membership types
 - reporting and SQL analysis
 
-The project will include:
-- requirements analysis
-- ER diagrams
-- relational schema
-- SQL table creation
-- sample data
-- SQL queries
+## Tools Used
+
+- PowerDesigner
+- SQL
+- Relational database modeling
+
+## Database Features
+
+- entity relationship modeling
+- primary and foreign key constraints
+- normalized relational structure
+- membership tracking system
+- librarian and user management
